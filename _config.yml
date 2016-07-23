@@ -10,14 +10,16 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: www.paul-crosby.co
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/@crozza71
+  - ttile: linkedin
+    url: https://uk.linkedin.com/in/paul-crosby
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/Crozza71
 
 # Build settings
 markdown: kramdown
