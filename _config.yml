@@ -13,11 +13,11 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/@crozza71
+    url: https://www.twitter.com/@crozza71
   - title: linkedin
-    url: https://uk.linkedin.com/in/paul-crosby
+    url: https://www.linkedin.com/in/paul-crosby
   - title: github
-    url: https://github.com/Crozza71
+    url: https://www.github.com/Crozza71
 
 # Build settings
 markdown: kramdown
