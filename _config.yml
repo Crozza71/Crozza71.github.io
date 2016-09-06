@@ -19,7 +19,7 @@ social:
   - title: github
     url: https://github.com/Crozza71
   # - title: email  
-  #   mailto:paul71crosby@gmail.com  
+  #   url:mailto:paul71crosby@gmail.com  
 
 # Build settings
 markdown: kramdown
