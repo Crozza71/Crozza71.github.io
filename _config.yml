@@ -18,8 +18,9 @@ social:
     url: https://linkedin.com/in/paul-crosby
   - title: github
     url: https://github.com/Crozza71
-  # - title: email  
-  #   url:mailto:paul71crosby@gmail.com  
+  - title: email  
+    url: mailto:paul71crosby@gmail.com 
+     
 
 # Build settings
 markdown: kramdown
